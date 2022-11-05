@@ -1,2 +1,2 @@
-# beautybyhaweezy
-All about beauty
+# Hauwa's New git
+ This is all about beauty
